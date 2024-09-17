@@ -15,3 +15,5 @@ pizza names and toppings. Use the shell to explore the data you entered.
 -- Linux use the command ll_env\bin\activate
 
 2. Install Django
+pip install --upgrade pip
+pip install django
