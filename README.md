@@ -15,5 +15,13 @@ pizza names and toppings. Use the shell to explore the data you entered.
 -- Linux use the command ll_env\bin\activate
 
 2. Install Django
-pip install --upgrade pip
-pip install django
+-- pip install --upgrade pip
+-- pip install django
+
+3. Creating a Project in Django
+-- django-admin startproject pizza_project .
+```
+The dot (.) at the end of the command creates the new project
+with a directory structure that will make it easy to deploy the app to a server
+when we’re finished developing it.
+```
