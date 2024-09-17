@@ -10,8 +10,8 @@ sausage.
 4. Register both models with the admin site, and use the site to enter some 
 pizza names and toppings. Use the shell to explore the data you entered.
 ```
-# Create a venv
--- Windows, use the command ll_env\Scripts\activate
+1. Create a venv
+-- Windows, use the command ll_env\Scripts\activate.
 -- Linux use the command ll_env\bin\activate
 
-# Install Django
+2. Install Django
