@@ -33,7 +33,11 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
 
     # My apps
+<<<<<<< HEAD
     'pizzas',
+=======
+    'pizzas'
+>>>>>>> 2f3f196629cff24a4fe148a9e0fe5a3171560a01
 
     "django.contrib.admin",
     "django.contrib.auth",

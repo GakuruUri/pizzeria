@@ -34,12 +34,18 @@ when we’re finished developing it.
 
 ## Starting an App
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2f3f196629cff24a4fe148a9e0fe5a3171560a01
 1. startapp
 -- python manage.py startapp pizza
 
 2. Defining Models
+-- Define a model Pizza
+-- Define a model called Topping 
 
+<<<<<<< HEAD
 ## Activating Models
 
 1. Define a model Pizza. 
@@ -51,3 +57,14 @@ when we’re finished developing it.
 ## Django admin site configuration
 1. Setting Up a Superuser
 --python manage.py createsuperuser
+=======
+3. Activating Models
+-- python manage.py makemigrations learning_logs
+-- python manage.py migrate
+
+4. The Django Admin Site
+-- python manage.py createsuperuser
+
+
+# Registering a Model with the Admin Site
+>>>>>>> 2f3f196629cff24a4fe148a9e0fe5a3171560a01
